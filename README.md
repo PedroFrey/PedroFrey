@@ -33,37 +33,79 @@ These tools are built with Python and deployed on Render.
 
 <h3 align="left">🤝 Connect with me</h3>
 <p align="left">
-  <p>
+
 <a href="https://www.linkedin.com/in/pedrofrey/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
-</a>
-</p>
-<a href="https://freyportfolio.onrender.com" target="_blank">
-  🌐 Portfolio
 </a>
 </p>
 
 ---
 <h3 align="left">🛠️ Languages and Tools</h3>
 
-<b>Data & BI</b><br/>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
-</p>
+<table>
+<tr>
+<td valign="top" width="33%">
 
-<b>Databases</b><br/>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40"/>
-</p>
+<b>🧠 Data Science & Analytics</b><br/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="40"/>
 
-<b>BI & Visualization</b><br/>
-<p>
-  <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" height="30"/>
-</p>
+</td>
+<td valign="top" width="33%">
+
+<b>🗄️ Databases & Storage</b><br/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" height="40"/>
+
+</td>
+<td valign="top" width="33%">
+
+<b>📊 BI & Visualization</b><br/><br/>
+<img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" height="40"/>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+<b>⚙️ Data Engineering</b><br/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/>
+
+</td>
+<td valign="top">
+
+<b>☁️ Cloud & Platforms</b><br/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40"/>
+
+</td>
+<td valign="top">
+
+<b>🧩 Web & Apps</b><br/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/>
+
+</td>
+</tr>
+</table>
 
 ---
 <h3 align="left">📊 GitHub Activity</h3>
