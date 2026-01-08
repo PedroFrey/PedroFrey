@@ -62,15 +62,16 @@ These tools are built with Python and deployed on Render.
 
 <b>BI & Visualization</b><br/>
 <p>
-  <img src="https://marcas-logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" height="30"/>
+  <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" height="30"/>
 </p>
 
 ---
-<h3 align="left">📈 GitHub Stats</h3>
+<h3 align="left">📊 GitHub Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofrey&layout=compact&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrofrey&hide_border=true" />
 </p>
+
 
 
 <!--
