@@ -54,16 +54,18 @@ These tools are built with Python and deployed on Render.
 </td>
 
 <td valign="top" width="33%">
-<b>🧩 DATA Visual & BI </b><br/><br/>
+<b>📊 Data Visualization & BI </b><br/><br/>
+<img src="https://images.seeklogo.com/logo-png/42/1/matplotlib-logo-png_seeklogo-428048.png" height="40"/>
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
 <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" height="40"/>
 </td>
 
 <td valign="top" width="33%">
-<b>📊 Analytics Engineering & Warehouses</b><br/><br/>
+<b>🏗️ Analytics Engineering & Warehouses</b><br/><br/>
 <img src="https://vectorseek.com/wp-content/uploads/2023/09/Dbt-Logo-Vector.svg-.png" height="40"/>
 <img src="https://www.logo.wine/a/logo/Snowflake_Inc./Snowflake_Inc.-Logo.wine.svg" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" height="40"/>
 </td>
 
 </tr>
