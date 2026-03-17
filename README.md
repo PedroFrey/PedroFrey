@@ -22,12 +22,15 @@ I build data products, dashboards and automation pipelines that turn raw data in
 
 <h3 align="left">🌐 Live Projects</h3>
 
-- 🔗 **Personal Portfolio & Tools:** https://freyportfolio.onrender.com  
+- 🔗 **Personal Portfolio of Tools:** https://freyportfolio.onrender.com  
   - 💬 Conversation starter tool  
   - 💰 Retirement simulator  
   - 🛒 Price comparison tool  
 
 These tools are built with Python and deployed on Render.
+
+- 🔗 **Personal Portfolio of Dashboards:** https://sites.google.com/view/datafrey/main?authuser=0
+These dashboards are built with Microsoft Power BI.
 
 ---
 
