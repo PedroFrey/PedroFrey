@@ -131,7 +131,7 @@ These dashboards are built with Microsoft Power BI.
 <h3 align="left">📊 GitHub Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrofrey&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrofrey&hide_border=true&theme=github" />
 </p>
 
 
